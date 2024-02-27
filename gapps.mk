@@ -1,6 +1,7 @@
 PRODUCT_PACKAGES += \
 		GoogleServicesFramework \
 		GmsCore \
+		AndroidAutoStub \
 		Phonesky
 
 PRODUCT_PROPERTY_OVERRIDES += \
